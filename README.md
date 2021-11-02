@@ -2,4 +2,4 @@ This application will show display a clean overlay modal with a click of a butto
 
 ![Alt text](overlay-modal.png?raw=true "pop-up-overlay-modal")
 
-[go](https://codesandbox.io/s/q7706){:target="\_blank" rel="noopener"}
+https://codesandbox.io/s/q7706
